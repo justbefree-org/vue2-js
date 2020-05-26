@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="58px" height="3px" viewBox="0 0 58 3" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.2 (78181) - https://sketchapp.com -->
+    <title>arrow</title>
+    <desc>Created with Sketch.</desc>
+    <g id="火车" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="占座弹框" transform="translate(-159.000000, -131.000000)" fill="#888888" fill-rule="nonzero">
+            <g id="编组-3" transform="translate(33.000000, 44.000000)">
+                <polygon id="arrow" points="126 89.144041 126 90 184 90 180.278442 87 180.595215 89.144041"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>

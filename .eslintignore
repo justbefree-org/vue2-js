@@ -1,0 +1,4 @@
+build/*.js
+config/*.js
+src/components/display/yn-icon/iconfont.js
+src/configuration/*.js
