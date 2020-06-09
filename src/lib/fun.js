@@ -345,14 +345,14 @@ export const replaceEmojiwithEmptyString = str => {
   return str.replace(reg, "");
 };
 export const freeStyleLog = () => {
+  // console &&
+  //   console.log(
+  //     "%c",
+  //     "margin: 30px; padding:30px 120px;background: url('') no-repeat;"
+  //   );
   console &&
     console.log(
-      "%c",
-      "margin: 30px; padding:30px 120px;background: url('http://www.51ykb.com/Content/themes/default/images/Logon/logo_anti.svg') no-repeat;"
-    );
-  console &&
-    console.log(
-      "%c 元年出品 %c 小样我就知道你进来偷看人家代码 - ECS2.0 vue前端组 %c",
+      "%c Just be free 出品 %c 小样我就知道你进来偷看人家代码 %c",
       "background:#35495e ; font-size: 20px; padding: 1px; border-radius: 3px 0 0 3px;  color: #fff",
       "background:#007aff ; padding: 1px; border-radius: 0 3px 3px 0; font-size: 20px;  color: #fff",
       "background:transparent"

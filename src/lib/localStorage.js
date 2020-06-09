@@ -92,7 +92,7 @@ const getKey = key => {
   return Base64.encode(key);
 };
 class LocalStorage {
-  constructor(prefix = "ykb-mobile") {
+  constructor(prefix = "mobile") {
     this._prefix = prefix;
     this._version = "20190906";
     this._store = global.localStorage;

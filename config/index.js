@@ -6,7 +6,7 @@ var tagName
 try {
   tagName = fs.readFileSync('./build/tag.tmp', 'utf-8')
 } catch (err) {
-  console.log('文件缺失不用怕，只有打包的时候才会用到')
+  console.log('Skiped')
 }
 var customeConfig = {}
 try {
