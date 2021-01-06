@@ -24,7 +24,7 @@
   },
   "dependencies": {
     "animate.css": "^3.5.2",
-    "axios": "^0.16.2",
+    "axios": "^0.21.1",
     "babel-polyfill": "^6.26.0",
     "big.js": "^5.0.2",
     "immutable": "^3.8.2",
